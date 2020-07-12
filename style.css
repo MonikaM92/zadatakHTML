@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(240, 223, 229);
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', arial, sans-serif;
+    font-size: 14px;
+}
+
+img {
+     vertical-align: bottom;
+     float: left;
+     margin: 0px 10px 0 0;
+}
+
+li {
+    list-style-type:none;
+}
+
+h1, h2, h3, h4 {
+    color: rgb(25, 4, 49);
+    font-style: italic;
+    font-weight: 200;
+    font-weight: bolder;
+    text-shadow: 2px 2px rgb(147, 143, 168);
+}
+
+.osnova {
+    background-color: #d8c5c5;
+    margin: 0 auto ;
+    padding:15px;
+    width: 950px;
+    overflow: hidden;
+}
+.nav {
+    text-align: left;
+    width: 200px;
+    float: left;
+    color: rgb(49, 2, 6);
+    position: fixed;
+    top: 150px;
+    }
+
+.sidebar {
+    width: 740px;
+    float: right;
+    margin: 0 0 15px;
+    color: rgb(7, 7, 51);
+}
+
+table, th, td {
+    border: 2px solid rgb(145, 145, 185);
+    background-color: rgb(182, 188, 207);
+    border-collapse: collapse;
+}
+
+th {
+    text-shadow: 2px 2px rgb(139, 139, 146);
+}
